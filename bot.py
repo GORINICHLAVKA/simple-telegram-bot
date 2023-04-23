@@ -79,7 +79,7 @@ def main():
     __debug("CALL main")
 
     __debug("main: Initializing updater")
-    updater = Updater("BOT TOKEN")
+    updater = Updater("5972643148:AAGJ0P15ktxDsgn2GD6GhViX_taHs22J2vs")
     dp = updater.dispatcher
 
     __debug("main: Configuring handlers")
